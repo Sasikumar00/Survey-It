@@ -1,0 +1,15 @@
+.create-form{
+    margin-top: 2rem;
+}
+.create-label{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+.create-input{
+    width: 100%;
+    padding: 2px 5px;
+    border-radius: 5px;
+}

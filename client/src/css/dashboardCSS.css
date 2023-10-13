@@ -1,0 +1,17 @@
+.code-snippet {
+  position: relative;
+  border: 1px solid #e9d929;
+  overflow: auto;
+  max-height: 200px; /* Set a maximum height to prevent overflow */
+  padding: 1.5rem 10px;
+  border-radius: 5px;
+}
+
+.code-snippet pre {
+  white-space: pre-wrap;
+   /* Preserve whitespace and wrap lines as needed */
+}
+
+.code-snippet button {
+  margin-top: 10px;
+}
